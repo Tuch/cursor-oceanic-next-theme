@@ -1,0 +1,22 @@
+{
+  "name": "oceanic-next-theme",
+  "displayName": "Oceanic Next Theme",
+  "description": "Custom Oceanic Next color theme for Cursor/VSCode.",
+  "version": "0.0.1",
+  "publisher": "alex-afonin",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceanic Next",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-next-color-theme.json"
+      }
+    ]
+  }
+}
