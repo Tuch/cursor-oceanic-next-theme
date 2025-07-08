@@ -2,6 +2,8 @@
 
 A beautiful, modern Oceanic Next-inspired dark color theme for VSCode and Cursor, with soft borders and carefully tuned syntax highlighting.
 
+<img width="1351" alt="image" src="https://github.com/user-attachments/assets/f57df20a-2867-4617-ab93-93b7f0f15762" />
+
 ## ✨ Features
 
 - Deep blue-gray background and soft, readable colors
